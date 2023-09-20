@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vraj Patel</h1>
 <h3 align="center">A passionate student</h3>
 
-- 🌱 I’m currently learning **Flutter and Python.**
+- 🌱 I’m currently trying to learn **Flutter and Python.**
 
 - 🤝 I’m looking for help with **Flutter framework.**
 
