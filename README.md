@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Vraj Patel</h1>
 <h3 align="center">A passionate student</h3>
 
-- 🌱 I’m currently trying to learn **Flutter and Python.**
+- 🌱 I’m currently trying to learn **Flutter, C++ and Python.**
 
 - 🤝 I’m looking for help with **Flutter framework.**
 
 - 📫 How to reach me: **2022ucs0100@iitjammu.ac.in**
 
-- ⚡ Fun fact: **I think I am funny**
+- ⚡ **I think I know what I do.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
