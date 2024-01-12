@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vraj Patel</h1>
 <h3 align="center">A passionate student</h3>
 
-- 🌱 I’m currently trying to learn **Flutter, C++ and Python.**
+- 🌱 I’m currently trying to learn **ML, C++ and Python**.
 
-- 🤝 I’m looking for help with **Flutter framework.**
+- 🤝 I’m looking for help with **pytorch and tensorflow**.
 
 - 📫 How to reach me: **2022ucs0100@iitjammu.ac.in**
 
